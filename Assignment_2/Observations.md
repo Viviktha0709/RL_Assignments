@@ -59,9 +59,4 @@ Overall, the analysis shows that FrozenLake is highly sensitive to hyperparamete
 | γ (Discount Factor)        | 0.99           |
 | ε (Exploration Rate)       | 0.1            |
 
----
-<<<<<<< HEAD
-=======
 
-
->>>>>>> 2fe0cad61c9a7b12e342f1c996aba2dcb97b0dad
